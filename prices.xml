@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns="kaspiShopping" date="2026-03-17">
+<kaspi_catalog xmlns="kaspiShopping" date="2026-03-19">
   <company>TopPrice</company>
   <merchantid>30402259</merchantid>
   <offers>
     <offer sku="153174207">
       <model>Защитная бронепленка 50 акрил 3 мм</model>
-      <price>25119</price>
+      <price>24989</price>
+    </offer>
+    <offer sku="147094325">
+      <model>Защитная бронепленка 65 акрил 3 мм</model>
+      <price>44989</price>
     </offer>
   </offers>
 </kaspi_catalog>
